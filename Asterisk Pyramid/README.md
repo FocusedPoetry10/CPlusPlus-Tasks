@@ -13,11 +13,8 @@ This project is a simple C++ program that generates an odd-number-based asterisk
 ## Example
 
 For an input of `5`, the output will be:
-    *
-   ***
-  *****
- *******
-*********
+    
+![Screenshot 2024-08-07 130249](https://github.com/user-attachments/assets/ebd3b6e6-3e08-4433-82ea-94e8af298e12)
 
 
 ## Requirements
