@@ -1,4 +1,4 @@
-# Odd Number-Based Asterisk Pyramid
+Asterisk Pyramid
 
 ## Description
 
