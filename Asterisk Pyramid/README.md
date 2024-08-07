@@ -45,27 +45,27 @@ For an input of `5`, the output will be:
 # Detailed Explanation
 
 1. **Input Prompt:**
-- The user is prompted to enter the number of rows for the pyramid.
-- The input is stored in the variable `n`.
+ - The user is prompted to enter the number of rows for the pyramid.
+ - The input is stored in the variable `n`.
 
 2. **Outer Loop:**
-- Iterates from 1 to `n` to process each row.
-- `i` represents the current row number.
+ - Iterates from 1 to `n` to process each row.
+ - `i` represents the current row number.
 
 3. **Spaces Calculation:**
 - The number of spaces before the asterisks in each row is calculated as `n - i`.
 
 4. **Asterisks Calculation:**
-- The number of asterisks in each row is an odd number, calculated as `2 * i - 1`.
+ - The number of asterisks in each row is an odd number, calculated as `2 * i - 1`.
 
 5. **Printing Spaces:**
-- A nested loop prints the calculated number of spaces for each row.
+ - A nested loop prints the calculated number of spaces for each row.
 
 6. **Printing Asterisks:**
-- Another nested loop prints the calculated number of asterisks for each row.
+ - Another nested loop prints the calculated number of asterisks for each row.
 
 7. **Move to Next Line:**
-- After printing the spaces and asterisks for a row, the program moves to the next line.
+ - After printing the spaces and asterisks for a row, the program moves to the next line.
 
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. Ensure that your code adheres to the project's coding standards and includes appropriate tests.
