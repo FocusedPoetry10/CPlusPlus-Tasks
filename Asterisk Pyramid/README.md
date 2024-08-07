@@ -1,4 +1,4 @@
-Asterisk Pyramid
+## Asterisk Pyramid
 
 ## Description
 
